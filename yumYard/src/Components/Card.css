@@ -1,0 +1,35 @@
+.card{
+    width: 280px;
+    height: 200px;
+    position: relative;
+}
+.card-container{
+    width: 280px;
+    height: 200px;
+    object-fit: contain;
+}
+.card-container img{
+    width: 280px;
+    height: 100%;
+}
+.button{
+    display: flex;
+    background-color: #ffff;
+    justify-content: space-around;
+    align-items: center;
+    width: 80%;
+    height: 50px;
+    position: absolute;
+    bottom: 15px;
+    margin: 0 auto;
+    border-radius: 0px 15px 15px 0px;
+    cursor: pointer;
+}
+.button div{
+    display: flex;
+    gap: 15px;
+}
+.button span{
+    font-family: Montserrat;
+    font-size: 18px;
+}

@@ -29,6 +29,7 @@ open terminal on the project and type
 ```http
   cd yumYard
   npm i
+ npm start
 ```
 now you are got to go for hacking !!
 

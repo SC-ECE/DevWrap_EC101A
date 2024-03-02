@@ -34,16 +34,12 @@ open terminal on the project and type
 now you are got to go for hacking !!
 
 
-
-## 😒 What You are able to change? 
-1. Nav Items
-2. Landing Text
-
-## 😒 What You are not able to change? 
+## 😒 What You are  able to change? 
 1. Given Colors
 2. Logo
 3. Landing page Image
 4. Landing Text Design
+5. Make it a single page on scroll or multipage as you wish
 
 
 
